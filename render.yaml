@@ -8,8 +8,8 @@
         - key: N8N_BASIC_AUTH_ACTIVE
           value: 'true'
         - key: N8N_BASIC_AUTH_USER
-          value: 'yourusername'
+          value: 'admin'
         - key: N8N_BASIC_AUTH_PASSWORD
-          value: 'yourpassword'
+          value: 'admin012'
         - key: WEBHOOK_URL
-          value: 'https://your-app-name.onrender.com/'
+          value: 'https://ai-agent-i.onrender.com/'
